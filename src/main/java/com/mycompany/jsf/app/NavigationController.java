@@ -20,7 +20,7 @@ public class NavigationController {
     }
     
     public String moveToHelloPage() {
-        return "newjsf";
+        return "hello";
     }
     
 }
