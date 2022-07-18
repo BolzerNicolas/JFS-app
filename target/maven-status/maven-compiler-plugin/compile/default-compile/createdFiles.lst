@@ -1,3 +1,4 @@
 com\mycompany\jsf\app\NewServlet.class
-com\mycompany\jsf\app\HelloWorld.class
+com\mycompany\jsf\app\NavigationController.class
 com\mycompany\jsf\app\Message.class
+com\mycompany\jsf\app\HelloWorld.class
